@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TodoList_React_App/static/css/main.36fe29b4.chunk.css",
-    "main.js": "/TodoList_React_App/static/js/main.b9678c3f.chunk.js",
-    "main.js.map": "/TodoList_React_App/static/js/main.b9678c3f.chunk.js.map",
-    "runtime~main.js": "/TodoList_React_App/static/js/runtime~main.b7251293.js",
-    "runtime~main.js.map": "/TodoList_React_App/static/js/runtime~main.b7251293.js.map",
-    "static/js/2.99f4aa59.chunk.js": "/TodoList_React_App/static/js/2.99f4aa59.chunk.js",
-    "static/js/2.99f4aa59.chunk.js.map": "/TodoList_React_App/static/js/2.99f4aa59.chunk.js.map",
-    "index.html": "/TodoList_React_App/index.html",
-    "precache-manifest.5d8fe640f1f05df423147007b7af910d.js": "/TodoList_React_App/precache-manifest.5d8fe640f1f05df423147007b7af910d.js",
-    "service-worker.js": "/TodoList_React_App/service-worker.js",
-    "static/css/main.36fe29b4.chunk.css.map": "/TodoList_React_App/static/css/main.36fe29b4.chunk.css.map"
+    "main.css": "/abhishekpandya5/TodoList_React_App.git/static/css/main.36fe29b4.chunk.css",
+    "main.js": "/abhishekpandya5/TodoList_React_App.git/static/js/main.b9678c3f.chunk.js",
+    "main.js.map": "/abhishekpandya5/TodoList_React_App.git/static/js/main.b9678c3f.chunk.js.map",
+    "runtime~main.js": "/abhishekpandya5/TodoList_React_App.git/static/js/runtime~main.38719a6d.js",
+    "runtime~main.js.map": "/abhishekpandya5/TodoList_React_App.git/static/js/runtime~main.38719a6d.js.map",
+    "static/js/2.99f4aa59.chunk.js": "/abhishekpandya5/TodoList_React_App.git/static/js/2.99f4aa59.chunk.js",
+    "static/js/2.99f4aa59.chunk.js.map": "/abhishekpandya5/TodoList_React_App.git/static/js/2.99f4aa59.chunk.js.map",
+    "index.html": "/abhishekpandya5/TodoList_React_App.git/index.html",
+    "precache-manifest.5a629656bad742c0098ec35ab23c367a.js": "/abhishekpandya5/TodoList_React_App.git/precache-manifest.5a629656bad742c0098ec35ab23c367a.js",
+    "service-worker.js": "/abhishekpandya5/TodoList_React_App.git/service-worker.js",
+    "static/css/main.36fe29b4.chunk.css.map": "/abhishekpandya5/TodoList_React_App.git/static/css/main.36fe29b4.chunk.css.map"
   }
 }
